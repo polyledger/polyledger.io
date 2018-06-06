@@ -1,0 +1,19 @@
+{
+  "name": "@polyledger/polyledger.io",
+  "version": "1.0.0",
+  "description": "Middleware-as-a-Service for distributed ledgers",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polyledger/polyledger.io.git"
+  },
+  "author": "Polyledger Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/polyledger/polyledger.io/issues"
+  },
+  "homepage": "https://github.com/polyledger/polyledger.io#readme"
+}
