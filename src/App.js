@@ -47,7 +47,7 @@ class App extends Component {
         <section>
           <div className="jumbotron jumbotron-fluid">
             <div className="container">
-              <h1 className="display-4">Polyledger EtherCloud</h1>
+              <h1 className="display-4">Polyledger Vantage</h1>
               <p className="lead">
                 Middleware-as-a-Service for Token Teams and the Enterprise
               </p>
